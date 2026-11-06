@@ -46,7 +46,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20I%20%2F%20RESEARCH%20ARCHIVE&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter I - Research Archive" />
 </p>
 
-<table width="100%" bgcolor="#241B0D"><tr><td bgcolor="#241B0D" align="center"><sub><b>JADE ARCHIVE  /  SELECTED RESEARCH & BUILDS</b></sub></td></tr></table>
+<table width="100%" bgcolor="#241B0D"><tr><td bgcolor="#241B0D" align="center"><sub><b>RESEARCH ARCHIVE  /  SELECTED BUILDS</b></sub></td></tr></table>
 
 <table width="100%" bgcolor="#241B0D">
   <tr>
@@ -80,11 +80,12 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20II%20%2F%20SIDE%20QUESTS&fontSize=20&fontColor=9AF2D0&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter II - Side Quests" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071F1B,35:123B32,70:1B5949,100:071F1B&height=76&section=header&text=CHAPTER%20II%20%2F%20SIDE%20QUESTS&fontSize=20&fontColor=9AF2D0&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter II - Side Quests" />
 </p>
 
-<table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>JADE ARCHIVE  /  COLLABORATIONS & EXPERIMENTS</b></sub></td></tr></table>
-
+<table width="100%" bgcolor="#071F1B">
+  <tr><td align="center" bgcolor="#071F1B"><sub><b>JADE ARCHIVE / COLLABORATIONS & EXPERIMENTS</b></sub></td></tr>
+</table>
 <table width="100%" bgcolor="#071F1B">
   <tr>
     <td width="50%" valign="top" bgcolor="#0B2924">
@@ -108,59 +109,27 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=<table width="100%" bgcolor="#071F1B"><tr><td align="center" bgcolor="#123B32"><sub><b>JADE TALENT TREE / TOOLS & DISCIPLINES</b></sub><br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&theme=dark&perline=5" alt="Tools and technologies" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071F1B,35:123B32,70:1B5949,100:071F1B&height=76&section=header&text=CHAPTER%20III%20%2F%20TALENT%20TREE&fontSize=20&fontColor=9AF2D0&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter III - Talent Tree" />
 </p>
 
-<p align="center">
-  <sub>PYTHON · NUMPY · SCIPY · LATEX &nbsp; ◈ &nbsp; PHYSICS · MATHEMATICS · AEROSPACE</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071F1B,35:123B32,70:1B5949,100:071F1B&height=76&section=header&text=
-</td></tr></table>
-CHAPTER%20IV%20%2F%20ADVENTURE%20PROGRESS&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter IV - Adventure Progress" />
-</p>
-
-<table width="100%" bgcolor="#241B0D"><tr><td bgcolor="#241B0D" align="center"><sub><b>JADE RECORD  /  STATISTICS & CONTRIBUTION HISTORY</b></sub></td></tr></table>
-
-<table width="100%" bgcolor="#241B0D">
+<table width="100%" bgcolor="#071F1B">
   <tr>
-    <td width="50%" align="center" bgcolor="#241B0D">
-      <a href="https://github.com/Atiqxyz"><img height="165" src="https://github-stats-extended.vercel.app/api?username=Atiqxyz&show_icons=true&hide_border=true&bg_color=0B2924&title_color=9AF2D0&icon_color=75E0B9&text_color=D8F7EC&rank_icon=github&cache_seconds=86400" alt="GitHub statistics - open profile" /></a>
-    </td>
-    <td width="50%" align="center" bgcolor="#30230F">
-      <a href="https://github.com/Atiqxyz?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atiqxyz&layout=compact&hide_border=true&bg_color=123B32&title_color=9AF2D0&text_color=D8F7EC&cache_seconds=86400" alt="Most used languages - open repositories" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" bgcolor="#3A2A10">
-      <img src="https://streak-stats.demolab.com?user=Atiqxyz&hide_border=true&background=17483C&ring=9AF2D0&fire=75E0B9&currStreakLabel=9AF2D0&sideLabels=D8F7EC&dates=9CCDBB&currStreakNum=F2FFFA&sideNums=F2FFFA" alt="GitHub contribution streak" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20V%20%2F%20CONSTELLATION&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter V - Constellation" />
-</p>
-
-<table width="100%" bgcolor="#241B0D"><tr><td bgcolor="#241B0D" align="center"><sub><b>JADE CONSTELLATION  /  CONTRIBUTION TRAIL</b></sub></td></tr></table>
-
-<table width="100%" bgcolor="#241B0D">
-  <tr>
-    <td align="center" bgcolor="#30230F">
-      <sub><b>JADE CONTRIBUTION TRAIL · DAILY ADVENTURE LOG</b></sub>
+    <td align="center" bgcolor="#0B2924">
+      <sub><b>JADE TALENT TREE / TOOLS & TECHNOLOGIES</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&theme=dark&perline=5" alt="Tools and technologies" />
       <br/><br/>
-      <img src="https://raw.githubusercontent.com/Atiqxyz/Atiqxyz/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
+      <sub>PYTHON · NUMPY · SCIPY · LATEX</sub>
+    </td>
+    <td align="center" bgcolor="#123B32">
+      <sub><b>JADE DISCIPLINES / CORE INTERESTS</b></sub><br/><br/>
+      <sub>PHYSICS · MATHEMATICS · AEROSPACE</sub><br/>
+      <sub>ORBITAL MECHANICS · NUMERICAL MODELLING</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>「Every journey has its own contracts.」</sub>
-  <br/>
-  <sub>Genshin Impact character and game references belong to their respective rights holders. Fan-themed presentation; no affiliation claimed.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20IV%20%2F%20ADVENTURE%20PROGRESS&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter IV - Adventure Progress" />
 </p>
 
-<!-- FOOTER ART ZONE: add your own Zhongli / Liyue artwork here. -->
+
