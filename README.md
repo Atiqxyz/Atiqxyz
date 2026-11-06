@@ -28,22 +28,28 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Atiqxyz?tab=repositories">⌘ REPOSITORIES</a>
-  &nbsp; ◈ &nbsp;
-  <a href="https://github.com/Atiqxyz?tab=projects">PROJECTS</a>
-  &nbsp; ◈ &nbsp;
-  <a href="https://github.com/Atiqxyz">GITHUB PROFILE</a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#123B32">
+      <a href="https://github.com/Atiqxyz?tab=repositories"><b>⌘ REPOSITORY ARCHIVE</b></a>
+    </td>
+    <td align="center" bgcolor="#17483C">
+      <a href="https://github.com/Atiqxyz?tab=projects"><b>◈ PROJECT BOARD</b></a>
+    </td>
+    <td align="center" bgcolor="#123B32">
+      <a href="https://github.com/Atiqxyz"><b>✧ GITHUB PROFILE</b></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20I%20%2F%20RESEARCH%20ARCHIVE&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter I - Research Archive" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2924,50:17483C,100:0B2924&height=58&section=header&text=CHAPTER%20I%20%2F%20RESEARCH%20ARCHIVE&fontSize=19&fontColor=75E0B9&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter I - Research Archive" />
 </p>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top" bgcolor="#241B0D">
-      <p><img src="https://img.shields.io/badge/01-ORBITAL_RESEARCH-E7BD65?style=for-the-badge&labelColor=30230F" /></p>
+      <p><img src="https://img.shields.io/badge/01-ORBITAL_RESEARCH-75E0B9?style=for-the-badge&labelColor=123B32" /></p>
       <h3><a href="https://github.com/Atiqxyz/Orbital-Decay-Simulation-code-v1">Orbital Decay Simulation</a></h3>
       <p>Modelling Low Earth Orbit decay under varying space-weather conditions.</p>
       <sub>ORBITAL MECHANICS · ATMOSPHERIC DRAG · SPACE WEATHER</sub>
@@ -130,12 +136,18 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20V%20%2F%20CONSTELLATION&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter V - Constellation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2924,50:17483C,100:0B2924&height=58&section=header&text=CHAPTER%20V%20%2F%20CONSTELLATION&fontSize=19&fontColor=75E0B9&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter V - Constellation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Atiqxyz/Atiqxyz/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#0B2924">
+      <sub><b>CONTRIBUTION TRAIL · DAILY ADVENTURE LOG</b></sub>
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/Atiqxyz/Atiqxyz/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>「Every journey has its own contracts.」</sub>
