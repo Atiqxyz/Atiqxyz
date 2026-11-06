@@ -43,18 +43,20 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2924,50:17483C,100:0B2924&height=58&section=header&text=CHAPTER%20I%20%2F%20RESEARCH%20ARCHIVE&fontSize=19&fontColor=75E0B9&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter I - Research Archive" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071F1B,35:123B32,70:1B5949,100:071F1B&height=76&section=header&text=CHAPTER%20I%20%2F%20RESEARCH%20ARCHIVE&fontSize=20&fontColor=9AF2D0&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter I - Research Archive" />
 </p>
+
+<table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>JADE ARCHIVE  /  SELECTED RESEARCH & BUILDS</b></sub></td></tr></table>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" bgcolor="#241B0D">
+    <td width="50%" valign="top" bgcolor="#0B2924">
       <p><img src="https://img.shields.io/badge/01-ORBITAL_RESEARCH-75E0B9?style=for-the-badge&labelColor=123B32" /></p>
       <h3><a href="https://github.com/Atiqxyz/Orbital-Decay-Simulation-code-v1">Orbital Decay Simulation</a></h3>
       <p>Modelling Low Earth Orbit decay under varying space-weather conditions.</p>
       <sub>ORBITAL MECHANICS · ATMOSPHERIC DRAG · SPACE WEATHER</sub>
     </td>
-    <td width="50%" valign="top" bgcolor="#30230F">
+    <td width="50%" valign="top" bgcolor="#123B32">
       <p><img src="https://img.shields.io/badge/02-GRAVITATIONAL_SYSTEMS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
       <h3><a href="https://github.com/Atiqxyz/N-body-gravity-sandbox">N-body Gravity Sandbox</a></h3>
       <p>A numerical sandbox for multi-body gravitational dynamics and emergent motion.</p>
@@ -62,13 +64,13 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" bgcolor="#30230F">
+    <td width="50%" valign="top" bgcolor="#123B32">
       <p><img src="https://img.shields.io/badge/03-COMPLEX_SYSTEMS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
       <h3><a href="https://github.com/Atiqxyz/Cellular-Automaton">Cellular Automaton</a></h3>
       <p>Exploring state transitions and large-scale patterns emerging from simple local rules.</p>
       <sub>COMPLEX SYSTEMS · EMERGENT BEHAVIOUR</sub>
     </td>
-    <td width="50%" valign="top" bgcolor="#3A2A10">
+    <td width="50%" valign="top" bgcolor="#17483C">
       <p><img src="https://img.shields.io/badge/04-VISUAL_EXPERIMENTS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
       <h3><a href="https://github.com/Atiqxyz/ASCII-Motion-Lab">ASCII Motion Lab</a></h3>
       <p>Text-based motion experiments and visual effects built from character grids.</p>
@@ -78,17 +80,19 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20II%20%2F%20SIDE%20QUESTS&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter II - Side Quests" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071F1B,35:123B32,70:1B5949,100:071F1B&height=76&section=header&text=CHAPTER%20II%20%2F%20SIDE%20QUESTS&fontSize=20&fontColor=9AF2D0&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter II - Side Quests" />
 </p>
+
+<table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>JADE ARCHIVE  /  COLLABORATIONS & EXPERIMENTS</b></sub></td></tr></table>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" bgcolor="#241B0D">
+    <td width="50%" valign="top" bgcolor="#0B2924">
       <h3><a href="https://github.com/Atiqxyz/Portfolio">Portfolio</a></h3>
       <p>A personal space for presenting projects and ongoing work.</p>
       <sub>WEB · PERSONAL PROJECT</sub>
     </td>
-    <td width="50%" valign="top" bgcolor="#30230F">
+    <td width="50%" valign="top" bgcolor="#123B32">
       <h3><a href="https://github.com/Atiqxyz/persona">Persona</a></h3>
       <p>A Persona-inspired web design project with its own visual identity.</p>
       <sub>WEB DESIGN · INTERFACE</sub>
@@ -116,33 +120,37 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20IV%20%2F%20ADVENTURE%20PROGRESS&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter IV - Adventure Progress" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071F1B,35:123B32,70:1B5949,100:071F1B&height=76&section=header&text=CHAPTER%20IV%20%2F%20ADVENTURE%20PROGRESS&fontSize=20&fontColor=9AF2D0&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter IV - Adventure Progress" />
 </p>
+
+<table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>JADE RECORD  /  STATISTICS & CONTRIBUTION HISTORY</b></sub></td></tr></table>
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center" bgcolor="#241B0D">
-      <a href="https://github.com/Atiqxyz"><img height="165" src="https://github-stats-extended.vercel.app/api?username=Atiqxyz&show_icons=true&hide_border=true&bg_color=241B0D&title_color=E7BD65&icon_color=D6A63A&text_color=F2E2B8&rank_icon=github&cache_seconds=86400" alt="GitHub statistics - open profile" /></a>
+    <td width="50%" align="center" bgcolor="#0B2924">
+      <a href="https://github.com/Atiqxyz"><img height="165" src="https://github-stats-extended.vercel.app/api?username=Atiqxyz&show_icons=true&hide_border=true&bg_color=0B2924&title_color=9AF2D0&icon_color=75E0B9&text_color=D8F7EC&rank_icon=github&cache_seconds=86400" alt="GitHub statistics - open profile" /></a>
     </td>
-    <td width="50%" align="center" bgcolor="#30230F">
-      <a href="https://github.com/Atiqxyz?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atiqxyz&layout=compact&hide_border=true&bg_color=30230F&title_color=E7BD65&text_color=F2E2B8&cache_seconds=86400" alt="Most used languages - open repositories" /></a>
+    <td width="50%" align="center" bgcolor="#123B32">
+      <a href="https://github.com/Atiqxyz?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atiqxyz&layout=compact&hide_border=true&bg_color=123B32&title_color=9AF2D0&text_color=D8F7EC&cache_seconds=86400" alt="Most used languages - open repositories" /></a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" bgcolor="#3A2A10">
-      <img src="https://streak-stats.demolab.com?user=Atiqxyz&hide_border=true&background=3A2A10&ring=E7BD65&fire=C89B3C&currStreakLabel=E7BD65&sideLabels=F2E2B8&dates=C9B98F&currStreakNum=F2E2B8&sideNums=F2E2B8" alt="GitHub contribution streak" />
+    <td colspan="2" align="center" bgcolor="#17483C">
+      <img src="https://streak-stats.demolab.com?user=Atiqxyz&hide_border=true&background=17483C&ring=9AF2D0&fire=75E0B9&currStreakLabel=9AF2D0&sideLabels=D8F7EC&dates=9CCDBB&currStreakNum=F2FFFA&sideNums=F2FFFA" alt="GitHub contribution streak" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2924,50:17483C,100:0B2924&height=58&section=header&text=CHAPTER%20V%20%2F%20CONSTELLATION&fontSize=19&fontColor=75E0B9&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter V - Constellation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071F1B,35:123B32,70:1B5949,100:071F1B&height=76&section=header&text=CHAPTER%20V%20%2F%20CONSTELLATION&fontSize=20&fontColor=9AF2D0&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter V - Constellation" />
 </p>
+
+<table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>JADE CONSTELLATION  /  CONTRIBUTION TRAIL</b></sub></td></tr></table>
 
 <table width="100%">
   <tr>
-    <td align="center" bgcolor="#0B2924">
-      <sub><b>CONTRIBUTION TRAIL · DAILY ADVENTURE LOG</b></sub>
+    <td align="center" bgcolor="#123B32">
+      <sub><b>JADE CONTRIBUTION TRAIL · DAILY ADVENTURE LOG</b></sub>
       <br/><br/>
       <img src="https://raw.githubusercontent.com/Atiqxyz/Atiqxyz/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
     </td>
