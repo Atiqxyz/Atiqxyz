@@ -1,62 +1,126 @@
 <!--
-  PROFILE ART SLOTS
-  Add your own Zhongli / Genshin header image above the intro.
-  Add your own footer artwork at the very bottom.
+  PERSONAL ART ZONES
+  Place your Zhongli / Genshin banner above this comment.
+  Add your own footer artwork after the final section.
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2600&pause=900&color=C89B3C&center=true&vCenter=true&width=760&height=55&lines=AHON;INDEPENDENT+RESEARCHER;AEROSPACE+%26+STEM" alt="Ahon - independent researcher, aerospace and STEM" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2600&pause=900&color=E7BD65&center=true&vCenter=true&width=760&height=55&lines=AHON;INDEPENDENT+RESEARCHER;AEROSPACE+%26+STEM" alt="Ahon - independent researcher, aerospace and STEM" />
 </p>
 
 <p align="center">
-  <samp>INDEPENDENT RESEARCHER&nbsp; • &nbsp;AEROSPACE ENTHUSIAST&nbsp; • &nbsp;STEM DEVELOPER</samp>
+  <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862" width="104" alt="Animated pixel-art character" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" width="104" alt="Animated pixel-art autumn scene" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Atiqxyz?tab=repositories">Repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Atiqxyz?tab=projects">Projects</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Atiqxyz">GitHub</a>
+  <b>INDEPENDENT RESEARCHER</b> &nbsp; ✦ &nbsp; <b>AEROSPACE ENTHUSIAST</b> &nbsp; ✦ &nbsp; <b>STEM DEVELOPER</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Atiqxyz?tab=repositories">⌘ REPOSITORIES</a>
+  &nbsp; ◈ &nbsp;
+  <a href="https://github.com/Atiqxyz?tab=projects">PROJECTS</a>
+  &nbsp; ◈ &nbsp;
+  <a href="https://github.com/Atiqxyz">GITHUB</a>
 </p>
 
 ---
 
-### 01 / TRANSMISSION
-
-I'm an independent researcher interested in **aerospace engineering, orbital mechanics, physics, and scientific computing**. I like building complete systems, testing ideas, and documenting what I learn.
-
-- **Current orbit:** orbital mechanics, space-weather effects, and computational physics
-- **Interests:** astronautics, aeronautics, applied physics, and scientific instrumentation
-- **Approach:** research → model → simulate → validate → document
+<table width="100%">
+  <tr>
+    <td bgcolor="#17172B" align="center">
+      <h3>✦ 01 / TRANSMISSION ✦</h3>
+      <p>I'm an independent researcher interested in <b>aerospace engineering, orbital mechanics, physics, and scientific computing.</b> I like building complete systems, testing ideas, and documenting what I learn.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FOCUS-ORBITAL_MECHANICS-C89B3C?style=flat-square" />
+        <img src="https://img.shields.io/badge/INTEREST-PHYSICS-8B78C6?style=flat-square" />
+        <img src="https://img.shields.io/badge/BUILD-SIMULATIONS-4C9A91?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 02 / SELECTED WORK
 
-| Project | What it explores |
-|:--|:--|
-| [Orbital Decay Simulation](https://github.com/Atiqxyz/Orbital-Decay-Simulation-code-v1) | Low Earth Orbit decay modelling and simulation |
-| [N-body Gravity Sandbox](https://github.com/Atiqxyz/N-body-gravity-sandbox) | Multi-body gravitational dynamics |
-| [Cellular Automaton](https://github.com/Atiqxyz/Cellular-Automaton) | Cellular systems and emergent behaviour |
-| [ASCII Motion Lab](https://github.com/Atiqxyz/ASCII-Motion-Lab) | Text-based motion and visual experiments |
-| [Portfolio](https://github.com/Atiqxyz/Portfolio) | Personal portfolio project |
-| [Persona](https://github.com/Atiqxyz/persona) | Persona-inspired web design |
-| [LLM Stack Report Bundle](https://github.com/Abdullah6926/LLM-Stack-Report-Bundle-.) | Collaborative documentation and tooling project |
+<p align="center"><sub>RESEARCH &nbsp; / &nbsp; SIMULATION &nbsp; / &nbsp; EXPERIMENTAL BUILDS</sub></p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" bgcolor="#17172B" valign="top">
+      <p><img src="https://img.shields.io/badge/01-RESEARCH-C89B3C?style=flat-square" /></p>
+      <h3><a href="https://github.com/Atiqxyz/Orbital-Decay-Simulation-code-v1">Orbital Decay Simulation</a></h3>
+      <p>Modelling orbital decay in Low Earth Orbit, including space-weather variations.</p>
+      <p><sub>ORBITAL MECHANICS · SPACE WEATHER</sub></p>
+    </td>
+    <td width="50%" bgcolor="#201A35" valign="top">
+      <p><img src="https://img.shields.io/badge/02-PHYSICS-9A83D5?style=flat-square" /></p>
+      <h3><a href="https://github.com/Atiqxyz/N-body-gravity-sandbox">N-body Gravity Sandbox</a></h3>
+      <p>A sandbox for exploring multi-body gravitational dynamics and emergent motion.</p>
+      <p><sub>GRAVITATION · NUMERICAL MODELLING</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#172B2B" valign="top">
+      <p><img src="https://img.shields.io/badge/03-SYSTEMS-58A69A?style=flat-square" /></p>
+      <h3><a href="https://github.com/Atiqxyz/Cellular-Automaton">Cellular Automaton</a></h3>
+      <p>Cellular systems, state transitions, and patterns emerging from simple rules.</p>
+      <p><sub>COMPLEX SYSTEMS · EMERGENT BEHAVIOUR</sub></p>
+    </td>
+    <td width="50%" bgcolor="#292318" valign="top">
+      <p><img src="https://img.shields.io/badge/04-EXPERIMENT-C89B3C?style=flat-square" /></p>
+      <h3><a href="https://github.com/Atiqxyz/ASCII-Motion-Lab">ASCII Motion Lab</a></h3>
+      <p>Text-based motion experiments and visual effects built with characters.</p>
+      <p><sub>VISUAL EXPERIMENTS · MOTION</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#211B2F" valign="top">
+      <p><img src="https://img.shields.io/badge/05-DESIGN-9A83D5?style=flat-square" /></p>
+      <h3><a href="https://github.com/Atiqxyz/Portfolio">Portfolio</a></h3>
+      <p>A personal space for presenting projects, interests, and ongoing work.</p>
+      <p><sub>WEB · PERSONAL PROJECT</sub></p>
+    </td>
+    <td width="50%" bgcolor="#172536" valign="top">
+      <p><img src="https://img.shields.io/badge/06-DESIGN-6E9CCB?style=flat-square" /></p>
+      <h3><a href="https://github.com/Atiqxyz/persona">Persona</a></h3>
+      <p>A Persona-inspired web design project with a distinct visual identity.</p>
+      <p><sub>WEB DESIGN · INTERFACE</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" bgcolor="#292318" valign="top">
+      <p><img src="https://img.shields.io/badge/07-COLLABORATION-C89B3C?style=flat-square" /></p>
+      <h3><a href="https://github.com/Abdullah6926/LLM-Stack-Report-Bundle-">LLM Stack Report Bundle</a></h3>
+      <p>Collaborative documentation and tooling project with Abdullah.</p>
+      <p><sub>COLLABORATIVE PROJECT · DOCUMENTATION & TOOLING</sub></p>
+    </td>
+  </tr>
+</table>
 
 ### 03 / GITHUB TELEMETRY
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atiqxyz&show_icons=true&hide_border=true&bg_color=00000000&title_color=C89B3C&icon_color=C89B3C&text_color=B8B8B8&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atiqxyz&layout=compact&hide_border=true&bg_color=00000000&title_color=C89B3C&text_color=B8B8B8" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atiqxyz&hide_border=true&background=00000000&ring=C89B3C&fire=C89B3C&currStreakLabel=C89B3C&sideLabels=B8B8B8&dates=777777" alt="GitHub contribution streak" />
-</p>
+<table width="100%">
+  <tr>
+    <td bgcolor="#17172B" align="center">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atiqxyz&show_icons=true&hide_border=true&bg_color=17172B&title_color=E7BD65&icon_color=9A83D5&text_color=D8D5E5&rank_icon=github" alt="GitHub statistics" />
+    </td>
+    <td bgcolor="#201A35" align="center">
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atiqxyz&layout=compact&hide_border=true&bg_color=201A35&title_color=E7BD65&text_color=D8D5E5" alt="Most used languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" bgcolor="#172B2B" align="center">
+      <img src="https://streak-stats.demolab.com?user=Atiqxyz&hide_border=true&background=172B2B&ring=E7BD65&fire=C89B3C&currStreakLabel=E7BD65&sideLabels=D8D5E5&dates=9A9AAF" alt="GitHub contribution streak" />
+    </td>
+  </tr>
+</table>
 
 ### 04 / ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atiqxyz&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Atiqxyz&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
 </p>
 
 ### 05 / CONTRIBUTION GRID
@@ -66,7 +130,7 @@ I'm an independent researcher interested in **aerospace engineering, orbital mec
 </p>
 
 <p align="center">
-  <sub>More pixel-art inspiration: <a href="https://github.com/hackwithdev/pixelartgifs">Pixel Art GIF collection</a>.</sub>
+  <sub>PIXEL ART SOURCES: <a href="https://github.com/hackwithdev/pixelartgifs">Pixel Art GIF collection</a> · artwork belongs to its respective creators.</sub>
 </p>
 
 <!-- FOOTER ART: add your own image or animated pixel-art scene here. -->
