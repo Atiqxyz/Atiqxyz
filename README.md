@@ -30,7 +30,7 @@
 
 <table width="100%">
   <tr>
-    <td bgcolor="#17172B" align="center">
+    <td bgcolor="#241B0D" align="center">
       <h3>✦ 01 / TRANSMISSION ✦</h3>
       <p>I'm an independent researcher interested in <b>aerospace engineering, orbital mechanics, physics, and scientific computing.</b> I like building complete systems, testing ideas, and documenting what I learn.</p>
       <p>
@@ -48,13 +48,13 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" bgcolor="#17172B" valign="top">
+    <td width="50%" bgcolor="#241B0D" valign="top">
       <p><img src="https://img.shields.io/badge/01-RESEARCH-C89B3C?style=flat-square" /></p>
       <h3><a href="https://github.com/Atiqxyz/Orbital-Decay-Simulation-code-v1">Orbital Decay Simulation</a></h3>
       <p>Modelling orbital decay in Low Earth Orbit, including space-weather variations.</p>
       <p><sub>ORBITAL MECHANICS · SPACE WEATHER</sub></p>
     </td>
-    <td width="50%" bgcolor="#201A35" valign="top">
+    <td width="50%" bgcolor="#30230F" valign="top">
       <p><img src="https://img.shields.io/badge/02-PHYSICS-9A83D5?style=flat-square" /></p>
       <h3><a href="https://github.com/Atiqxyz/N-body-gravity-sandbox">N-body Gravity Sandbox</a></h3>
       <p>A sandbox for exploring multi-body gravitational dynamics and emergent motion.</p>
@@ -62,13 +62,13 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" bgcolor="#172B2B" valign="top">
+    <td width="50%" bgcolor="#3A2A10" valign="top">
       <p><img src="https://img.shields.io/badge/03-SYSTEMS-58A69A?style=flat-square" /></p>
       <h3><a href="https://github.com/Atiqxyz/Cellular-Automaton">Cellular Automaton</a></h3>
       <p>Cellular systems, state transitions, and patterns emerging from simple rules.</p>
       <p><sub>COMPLEX SYSTEMS · EMERGENT BEHAVIOUR</sub></p>
     </td>
-    <td width="50%" bgcolor="#292318" valign="top">
+    <td width="50%" bgcolor="#493512" valign="top">
       <p><img src="https://img.shields.io/badge/04-EXPERIMENT-C89B3C?style=flat-square" /></p>
       <h3><a href="https://github.com/Atiqxyz/ASCII-Motion-Lab">ASCII Motion Lab</a></h3>
       <p>Text-based motion experiments and visual effects built with characters.</p>
@@ -76,13 +76,13 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" bgcolor="#211B2F" valign="top">
+    <td width="50%" bgcolor="#30230F" valign="top">
       <p><img src="https://img.shields.io/badge/05-DESIGN-9A83D5?style=flat-square" /></p>
       <h3><a href="https://github.com/Atiqxyz/Portfolio">Portfolio</a></h3>
       <p>A personal space for presenting projects, interests, and ongoing work.</p>
       <p><sub>WEB · PERSONAL PROJECT</sub></p>
     </td>
-    <td width="50%" bgcolor="#172536" valign="top">
+    <td width="50%" bgcolor="#3A2A10" valign="top">
       <p><img src="https://img.shields.io/badge/06-DESIGN-6E9CCB?style=flat-square" /></p>
       <h3><a href="https://github.com/Atiqxyz/persona">Persona</a></h3>
       <p>A Persona-inspired web design project with a distinct visual identity.</p>
@@ -90,7 +90,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" bgcolor="#292318" valign="top">
+    <td colspan="2" bgcolor="#493512" valign="top">
       <p><img src="https://img.shields.io/badge/07-COLLABORATION-C89B3C?style=flat-square" /></p>
       <h3><a href="https://github.com/Abdullah6926/LLM-Stack-Report-Bundle-">LLM Stack Report Bundle</a></h3>
       <p>Collaborative documentation and tooling project with Abdullah.</p>
@@ -103,15 +103,15 @@
 
 <table width="100%">
   <tr>
-    <td bgcolor="#17172B" align="center">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atiqxyz&show_icons=true&hide_border=true&bg_color=17172B&title_color=E7BD65&icon_color=9A83D5&text_color=D8D5E5&rank_icon=github" alt="GitHub statistics" />
+    <td bgcolor="#241B0D" align="center">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atiqxyz&show_icons=true&hide_border=true&bg_color=17172B&title_color=E7BD65&icon_color=D6A63A&text_color=D8D5E5&rank_icon=github" alt="GitHub statistics" />
     </td>
-    <td bgcolor="#201A35" align="center">
+    <td bgcolor="#30230F" align="center">
       <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atiqxyz&layout=compact&hide_border=true&bg_color=201A35&title_color=E7BD65&text_color=D8D5E5" alt="Most used languages" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" bgcolor="#172B2B" align="center">
+    <td colspan="2" bgcolor="#3A2A10" align="center">
       <img src="https://streak-stats.demolab.com?user=Atiqxyz&hide_border=true&background=172B2B&ring=E7BD65&fire=C89B3C&currStreakLabel=E7BD65&sideLabels=D8D5E5&dates=9A9AAF" alt="GitHub contribution streak" />
     </td>
   </tr>
@@ -120,7 +120,7 @@
 ### 04 / ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atiqxyz&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Atiqxyz&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
 </p>
 
 ### 05 / CONTRIBUTION GRID
