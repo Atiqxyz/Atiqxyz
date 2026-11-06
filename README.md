@@ -43,20 +43,20 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20I%20%2F%20RESEARCH%20ARCHIVE&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter I - Research Archive" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071F1B,35:123B32,70:1B5949,100:071F1B&height=76&section=header&text=CHAPTER%20I%20%2F%20RESEARCH%20ARCHIVE&fontSize=20&fontColor=9AF2D0&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter I - Research Archive" />
 </p>
 
-<table width="100%" bgcolor="#241B0D"><tr><td bgcolor="#241B0D" align="center"><sub><b>RESEARCH ARCHIVE  /  SELECTED BUILDS</b></sub></td></tr></table>
+<table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>JADE RESEARCH ARCHIVE  /  SELECTED BUILDS</b></sub></td></tr></table>
 
-<table width="100%" bgcolor="#241B0D">
+<table width="100%" bgcolor="#071F1B">
   <tr>
-    <td width="50%" valign="top" bgcolor="#241B0D">
-      <p><img src="https://img.shields.io/badge/01-ORBITAL_RESEARCH-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
+    <td width="50%" valign="top" bgcolor="#0B2924">
+      <p><img src="https://img.shields.io/badge/01-ORBITAL_RESEARCH-75E0B9?style=for-the-badge&labelColor=123B32" /></p>
       <h3><a href="https://github.com/Atiqxyz/Orbital-Decay-Simulation-code-v1">Orbital Decay Simulation</a></h3>
       <p>Modelling Low Earth Orbit decay under varying space-weather conditions.</p>
       <sub>ORBITAL MECHANICS · ATMOSPHERIC DRAG · SPACE WEATHER</sub>
     </td>
-    <td width="50%" valign="top" bgcolor="#30230F">
+    <td width="50%" valign="top" bgcolor="#123B32">
       <p><img src="https://img.shields.io/badge/02-GRAVITATIONAL_SYSTEMS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
       <h3><a href="https://github.com/Atiqxyz/N-body-gravity-sandbox">N-body Gravity Sandbox</a></h3>
       <p>A numerical sandbox for multi-body gravitational dynamics and emergent motion.</p>
@@ -64,13 +64,13 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" bgcolor="#30230F">
+    <td width="50%" valign="top" bgcolor="#123B32">
       <p><img src="https://img.shields.io/badge/03-COMPLEX_SYSTEMS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
       <h3><a href="https://github.com/Atiqxyz/Cellular-Automaton">Cellular Automaton</a></h3>
       <p>Exploring state transitions and large-scale patterns emerging from simple local rules.</p>
       <sub>COMPLEX SYSTEMS · EMERGENT BEHAVIOUR</sub>
     </td>
-    <td width="50%" valign="top" bgcolor="#3A2A10">
+    <td width="50%" valign="top" bgcolor="#17483C">
       <p><img src="https://img.shields.io/badge/04-VISUAL_EXPERIMENTS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
       <h3><a href="https://github.com/Atiqxyz/ASCII-Motion-Lab">ASCII Motion Lab</a></h3>
       <p>Text-based motion experiments and visual effects built from character grids.</p>
@@ -84,7 +84,7 @@
 </p>
 
 <table width="100%" bgcolor="#071F1B">
-  <tr><td align="center" bgcolor="#071F1B"><sub><b>JADE ARCHIVE / COLLABORATIONS & EXPERIMENTS</b></sub></td></tr>
+  <tr><td align="center" bgcolor="#071F1B"><sub><b>JADE SIDE QUESTS / COLLABORATIONS & EXPERIMENTS</b></sub></td></tr>
 </table>
 <table width="100%" bgcolor="#071F1B">
   <tr>
@@ -109,19 +109,19 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071F1B,35:123B32,70:1B5949,100:071F1B&height=76&section=header&text=CHAPTER%20III%20%2F%20TALENT%20TREE&fontSize=20&fontColor=9AF2D0&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter III - Talent Tree" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20III%20%2F%20TALENT%20TREE&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter III - Talent Tree" />
 </p>
 
-<table width="100%" bgcolor="#071F1B">
+<table width="100%" bgcolor="#241B0D">
   <tr>
-    <td align="center" bgcolor="#0B2924">
-      <sub><b>JADE TALENT TREE / TOOLS & TECHNOLOGIES</b></sub><br/><br/>
+    <td align="center" bgcolor="#30230F">
+      <sub><b>TALENT TREE / TOOLS & TECHNOLOGIES</b></sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&theme=dark&perline=5" alt="Tools and technologies" />
       <br/><br/>
       <sub>PYTHON · NUMPY · SCIPY · LATEX</sub>
     </td>
-    <td align="center" bgcolor="#123B32">
-      <sub><b>JADE DISCIPLINES / CORE INTERESTS</b></sub><br/><br/>
+    <td align="center" bgcolor="#3A2A10">
+      <sub><b>CORE DISCIPLINES / INTERESTS</b></sub><br/><br/>
       <sub>PHYSICS · MATHEMATICS · AEROSPACE</sub><br/>
       <sub>ORBITAL MECHANICS · NUMERICAL MODELLING</sub>
     </td>
