@@ -102,11 +102,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,latex,git,github,linux,vscode&theme=dark&perline=8" alt="Tools and technologies" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&theme=dark&perline=5" alt="Tools and technologies" />
 </p>
 
 <p align="center">
-  <sub>PHYSICS &nbsp; ◈ &nbsp; MATHEMATICS &nbsp; ◈ &nbsp; SCIENTIFIC COMPUTING &nbsp; ◈ &nbsp; AEROSPACE</sub>
+  <sub>PYTHON · NUMPY · SCIPY · LATEX &nbsp; ◈ &nbsp; PHYSICS · MATHEMATICS · AEROSPACE</sub>
 </p>
 
 <p align="center">
