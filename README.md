@@ -30,13 +30,13 @@
 
 <table width="100%" bgcolor="#241B0D">
   <tr>
-    <td align="center" bgcolor="#30230F">
+    <td align="center" bgcolor="#241B0D">
       <a href="https://github.com/Atiqxyz?tab=repositories"><b>⌘ REPOSITORY ARCHIVE</b></a>
     </td>
-    <td align="center" bgcolor="#3A2A10">
+    <td align="center" bgcolor="#30230F">
       <a href="https://github.com/Atiqxyz?tab=projects"><b>◈ PROJECT BOARD</b></a>
     </td>
-    <td align="center" bgcolor="#30230F">
+    <td align="center" bgcolor="#241B0D">
       <a href="https://github.com/Atiqxyz"><b>✧ GITHUB PROFILE</b></a>
     </td>
   </tr>
@@ -132,4 +132,44 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20IV%20%2F%20ADVENTURE%20PROGRESS&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter IV - Adventure Progress" />
 </p>
 
+<table width="100%" bgcolor="#241B0D"><tr><td bgcolor="#241B0D" align="center"><sub><b>ADVENTURE RECORD / STATISTICS & CONTRIBUTION HISTORY</b></sub></td></tr></table>
 
+<table width="100%" bgcolor="#241B0D">
+  <tr>
+    <td width="50%" align="center" bgcolor="#241B0D">
+      <a href="https://github.com/Atiqxyz"><img height="165" src="https://github-stats-extended.vercel.app/api?username=Atiqxyz&show_icons=true&hide_border=true&bg_color=241B0D&title_color=E7BD65&icon_color=D6A63A&text_color=F2E2B8&rank_icon=github&cache_seconds=86400" alt="GitHub statistics - open profile" /></a>
+    </td>
+    <td width="50%" align="center" bgcolor="#30230F">
+      <a href="https://github.com/Atiqxyz?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atiqxyz&layout=compact&hide_border=true&bg_color=30230F&title_color=E7BD65&text_color=F2E2B8&cache_seconds=86400" alt="Most used languages - open repositories" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" bgcolor="#3A2A10">
+      <img src="https://streak-stats.demolab.com?user=Atiqxyz&hide_border=true&background=3A2A10&ring=E7BD65&fire=C89B3C&currStreakLabel=E7BD65&sideLabels=F2E2B8&dates=C9B98F&currStreakNum=F2E2B8&sideNums=F2E2B8" alt="GitHub contribution streak" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:241B0D,50:493512,100:241B0D&height=58&section=header&text=CHAPTER%20V%20%2F%20CONSTELLATION&fontSize=19&fontColor=E7BD65&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter V - Constellation" />
+</p>
+
+<table width="100%" bgcolor="#241B0D"><tr><td bgcolor="#241B0D" align="center"><sub><b>CONSTELLATION / CONTRIBUTION TRAIL</b></sub></td></tr></table>
+
+<table width="100%" bgcolor="#241B0D">
+  <tr>
+    <td align="center" bgcolor="#30230F">
+      <sub><b>CONTRIBUTION TRAIL · DAILY ADVENTURE LOG</b></sub>
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/Atiqxyz/Atiqxyz/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>「Every journey has its own contracts.」</sub>
+  <br/>
+  <sub>Genshin Impact character and game references belong to their respective rights holders. Fan-themed presentation; no affiliation claimed.</sub>
+</p>
+
+<!-- FOOTER ART ZONE: add your own Zhongli / Liyue artwork here. -->
