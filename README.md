@@ -11,7 +11,7 @@
 <table width="100%">
   <tr>
     <td width="25%" align="center" valign="middle" bgcolor="#241B0D">
-      <img src="https://media.giphy.com/media/c65BrFl3r1zIU6cl7x/giphy.gif" width="150" alt="Zhongli pixel art animation by Bananelly" />
+      <img src="https://media.tenor.com/a6f7EIMy8IUAAAAe/genshin-impact-official-zhongli.png" width="150" alt="Official Genshin Impact Zhongli chibi sticker" />
       <br/>
       <sub>GEO · REX LAPIS · LIYUE</sub>
     </td>
@@ -116,10 +116,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" bgcolor="#241B0D">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atiqxyz&show_icons=true&hide_border=true&bg_color=241B0D&title_color=E7BD65&icon_color=D6A63A&text_color=F2E2B8&rank_icon=github" alt="GitHub statistics" />
+      <a href="https://github.com/Atiqxyz"><img height="165" src="https://github-stats-extended.vercel.app/api?username=Atiqxyz&show_icons=true&hide_border=true&bg_color=241B0D&title_color=E7BD65&icon_color=D6A63A&text_color=F2E2B8&rank_icon=github&cache_seconds=86400" alt="GitHub statistics - open profile" /></a>
     </td>
     <td width="50%" align="center" bgcolor="#30230F">
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atiqxyz&layout=compact&hide_border=true&bg_color=30230F&title_color=E7BD65&text_color=F2E2B8" alt="Most used languages" />
+      <a href="https://github.com/Atiqxyz?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atiqxyz&layout=compact&hide_border=true&bg_color=30230F&title_color=E7BD65&text_color=F2E2B8&cache_seconds=86400" alt="Most used languages - open repositories" /></a>
     </td>
   </tr>
   <tr>
