@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-<table width="100%">
+<table width="100%" bgcolor="#071F1B">
   <tr>
     <td align="center" bgcolor="#123B32">
       <a href="https://github.com/Atiqxyz?tab=repositories"><b>⌘ REPOSITORY ARCHIVE</b></a>
@@ -48,7 +48,7 @@
 
 <table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>JADE ARCHIVE  /  SELECTED RESEARCH & BUILDS</b></sub></td></tr></table>
 
-<table width="100%">
+<table width="100%" bgcolor="#071F1B">
   <tr>
     <td width="50%" valign="top" bgcolor="#0B2924">
       <p><img src="https://img.shields.io/badge/01-ORBITAL_RESEARCH-75E0B9?style=for-the-badge&labelColor=123B32" /></p>
@@ -57,7 +57,7 @@
       <sub>ORBITAL MECHANICS · ATMOSPHERIC DRAG · SPACE WEATHER</sub>
     </td>
     <td width="50%" valign="top" bgcolor="#123B32">
-      <p><img src="https://img.shields.io/badge/02-GRAVITATIONAL_SYSTEMS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
+      <p><img src="https://img.shields.io/badge/02-GRAVITATIONAL_SYSTEMS-75E0B9?style=for-the-badge&labelColor=123B32" /></p>
       <h3><a href="https://github.com/Atiqxyz/N-body-gravity-sandbox">N-body Gravity Sandbox</a></h3>
       <p>A numerical sandbox for multi-body gravitational dynamics and emergent motion.</p>
       <sub>GRAVITATION · NUMERICAL MODELLING</sub>
@@ -65,13 +65,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top" bgcolor="#123B32">
-      <p><img src="https://img.shields.io/badge/03-COMPLEX_SYSTEMS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
+      <p><img src="https://img.shields.io/badge/03-COMPLEX_SYSTEMS-75E0B9?style=for-the-badge&labelColor=123B32" /></p>
       <h3><a href="https://github.com/Atiqxyz/Cellular-Automaton">Cellular Automaton</a></h3>
       <p>Exploring state transitions and large-scale patterns emerging from simple local rules.</p>
       <sub>COMPLEX SYSTEMS · EMERGENT BEHAVIOUR</sub>
     </td>
     <td width="50%" valign="top" bgcolor="#17483C">
-      <p><img src="https://img.shields.io/badge/04-VISUAL_EXPERIMENTS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
+      <p><img src="https://img.shields.io/badge/04-VISUAL_EXPERIMENTS-75E0B9?style=for-the-badge&labelColor=123B32" /></p>
       <h3><a href="https://github.com/Atiqxyz/ASCII-Motion-Lab">ASCII Motion Lab</a></h3>
       <p>Text-based motion experiments and visual effects built from character grids.</p>
       <sub>VISUAL COMPUTING · MOTION</sub>
@@ -85,7 +85,7 @@
 
 <table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>JADE ARCHIVE  /  COLLABORATIONS & EXPERIMENTS</b></sub></td></tr></table>
 
-<table width="100%">
+<table width="100%" bgcolor="#071F1B">
   <tr>
     <td width="50%" valign="top" bgcolor="#0B2924">
       <h3><a href="https://github.com/Atiqxyz/Portfolio">Portfolio</a></h3>
@@ -99,7 +99,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top" bgcolor="#3A2A10">
+    <td colspan="2" valign="top" bgcolor="#17483C">
       <h3><a href="https://github.com/Abdullah6926/LLM-Stack-Report-Bundle-">LLM Stack Report Bundle</a></h3>
       <p>Collaborative documentation and tooling project built with Abdullah.</p>
       <sub>COLLABORATION · DOCUMENTATION · TOOLING</sub>
@@ -125,7 +125,7 @@
 
 <table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>JADE RECORD  /  STATISTICS & CONTRIBUTION HISTORY</b></sub></td></tr></table>
 
-<table width="100%">
+<table width="100%" bgcolor="#071F1B">
   <tr>
     <td width="50%" align="center" bgcolor="#0B2924">
       <a href="https://github.com/Atiqxyz"><img height="165" src="https://github-stats-extended.vercel.app/api?username=Atiqxyz&show_icons=true&hide_border=true&bg_color=0B2924&title_color=9AF2D0&icon_color=75E0B9&text_color=D8F7EC&rank_icon=github&cache_seconds=86400" alt="GitHub statistics - open profile" /></a>
@@ -147,7 +147,7 @@
 
 <table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>JADE CONSTELLATION  /  CONTRIBUTION TRAIL</b></sub></td></tr></table>
 
-<table width="100%">
+<table width="100%" bgcolor="#071F1B">
   <tr>
     <td align="center" bgcolor="#123B32">
       <sub><b>JADE CONTRIBUTION TRAIL · DAILY ADVENTURE LOG</b></sub>
