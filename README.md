@@ -46,7 +46,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071F1B,35:123B32,70:1B5949,100:071F1B&height=76&section=header&text=CHAPTER%20I%20%2F%20RESEARCH%20ARCHIVE&fontSize=20&fontColor=9AF2D0&fontAlign=50&fontAlignY=55" width="100%" alt="Chapter I - Research Archive" />
 </p>
 
-<table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>JADE RESEARCH ARCHIVE  /  SELECTED BUILDS</b></sub></td></tr></table>
+<table width="100%" bgcolor="#071F1B"><tr><td bgcolor="#071F1B" align="center"><sub><b>RESEARCH ARCHIVE  /  SELECTED BUILDS</b></sub></td></tr></table>
 
 <table width="100%" bgcolor="#071F1B">
   <tr>
@@ -57,7 +57,7 @@
       <sub>ORBITAL MECHANICS · ATMOSPHERIC DRAG · SPACE WEATHER</sub>
     </td>
     <td width="50%" valign="top" bgcolor="#123B32">
-      <p><img src="https://img.shields.io/badge/02-GRAVITATIONAL_SYSTEMS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
+      <p><img src="https://img.shields.io/badge/02-GRAVITATIONAL_SYSTEMS-75E0B9?style=for-the-badge&labelColor=0B2924" /></p>
       <h3><a href="https://github.com/Atiqxyz/N-body-gravity-sandbox">N-body Gravity Sandbox</a></h3>
       <p>A numerical sandbox for multi-body gravitational dynamics and emergent motion.</p>
       <sub>GRAVITATION · NUMERICAL MODELLING</sub>
@@ -65,13 +65,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top" bgcolor="#123B32">
-      <p><img src="https://img.shields.io/badge/03-COMPLEX_SYSTEMS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
+      <p><img src="https://img.shields.io/badge/03-COMPLEX_SYSTEMS-75E0B9?style=for-the-badge&labelColor=0B2924" /></p>
       <h3><a href="https://github.com/Atiqxyz/Cellular-Automaton">Cellular Automaton</a></h3>
       <p>Exploring state transitions and large-scale patterns emerging from simple local rules.</p>
       <sub>COMPLEX SYSTEMS · EMERGENT BEHAVIOUR</sub>
     </td>
     <td width="50%" valign="top" bgcolor="#17483C">
-      <p><img src="https://img.shields.io/badge/04-VISUAL_EXPERIMENTS-E7BD65?style=for-the-badge&labelColor=241B0D" /></p>
+      <p><img src="https://img.shields.io/badge/04-VISUAL_EXPERIMENTS-75E0B9?style=for-the-badge&labelColor=0B2924" /></p>
       <h3><a href="https://github.com/Atiqxyz/ASCII-Motion-Lab">ASCII Motion Lab</a></h3>
       <p>Text-based motion experiments and visual effects built from character grids.</p>
       <sub>VISUAL COMPUTING · MOTION</sub>
@@ -84,16 +84,18 @@
 </p>
 
 <table width="100%" bgcolor="#071F1B">
-  <tr><td align="center" bgcolor="#071F1B"><sub><b>JADE SIDE QUESTS / COLLABORATIONS & EXPERIMENTS</b></sub></td></tr>
+  <tr><td align="center" bgcolor="#071F1B"><sub><b>SIDE QUESTS / COLLABORATIONS & EXPERIMENTS</b></sub></td></tr>
 </table>
 <table width="100%" bgcolor="#071F1B">
   <tr>
     <td width="50%" valign="top" bgcolor="#0B2924">
+      <p><img src="https://img.shields.io/badge/05-PERSONAL_PORTFOLIO-75E0B9?style=for-the-badge&labelColor=0B2924" /></p>
       <h3><a href="https://github.com/Atiqxyz/Portfolio">Portfolio</a></h3>
       <p>A personal space for presenting projects and ongoing work.</p>
       <sub>WEB · PERSONAL PROJECT</sub>
     </td>
     <td width="50%" valign="top" bgcolor="#123B32">
+      <p><img src="https://img.shields.io/badge/06-WEB_DESIGN-75E0B9?style=for-the-badge&labelColor=0B2924" /></p>
       <h3><a href="https://github.com/Atiqxyz/persona">Persona</a></h3>
       <p>A Persona-inspired web design project with its own visual identity.</p>
       <sub>WEB DESIGN · INTERFACE</sub>
@@ -101,6 +103,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top" bgcolor="#17483C">
+      <p><img src="https://img.shields.io/badge/07-COLLABORATIVE_BUILD-75E0B9?style=for-the-badge&labelColor=0B2924" /></p>
       <h3><a href="https://github.com/Abdullah6926/LLM-Stack-Report-Bundle-">LLM Stack Report Bundle</a></h3>
       <p>Collaborative documentation and tooling project built with Abdullah.</p>
       <sub>COLLABORATION · DOCUMENTATION · TOOLING</sub>
